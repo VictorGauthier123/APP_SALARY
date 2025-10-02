@@ -3,6 +3,12 @@
 This project is a Flask web application that predicts a developer's salary based on different characteristics (country, programming language, experience, etc.).  
 The model used is a pre-trained XGBoost model saved as a `.pkl` file. This model has been trained with some data I found online.
 
+<img width="1883" height="867" alt="image" src="https://github.com/user-attachments/assets/6460c5b5-8d14-4423-80fb-b7c9cbb57b8e" />
+
+<img width="1858" height="839" alt="image" src="https://github.com/user-attachments/assets/cc66c01f-557d-4700-a081-829e74164429" />
+
+
+
 ## Project Structure
 
 ```
